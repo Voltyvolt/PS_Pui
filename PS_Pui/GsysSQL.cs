@@ -65,7 +65,7 @@ namespace PS_Pui
             {
                 while (dr.Read())
                 {
-                    lvReturn = dr["us_UserID"].ToString();
+                    lvReturn = dr["us_UserID"].ToString();//
                     //GVar.gvFirstUrl = dr["us_URL"].ToString();
                     //GVar.gvKet = dr["us_Ket"].ToString();
                     //GVar.gvUserType = dr["us_Type"].ToString();
