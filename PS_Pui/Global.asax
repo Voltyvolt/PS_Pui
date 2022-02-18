@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="PS_Pui.Global_asax" Language="C#" %>
